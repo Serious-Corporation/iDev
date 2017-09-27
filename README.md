@@ -1,2 +1,2 @@
 # iDev
-This repository for apple developers
+This repository only for Apple Developers. 
