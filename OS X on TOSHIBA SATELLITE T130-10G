@@ -1,0 +1,20 @@
+#Hi!
+I recently started OS X on my TOSHIBA SATELLITE T130-10G
+Spec:
+CPU: Intel Pentium SU4100
+GPU: Intel GMA 4500M
+RAM: 4GB
+HDD: 320GB SEAGATE
+I am using iAtkos ML2 build and Chameleon bootloader with Flags: -f -x GraphicsEnabler=Yes;
+SOUND: NO
+TOUCHPAD: YES
+KEYBOARD: YES
+USB: YES
+WEBCAM: YES
+ETHERNET: YES
+WIFI: NO
+BLUETOOTH: YES
+VGA: YES (1920x1440 max)
+HDMI: YES (1024x768 only)
+If you will install ML2 to T130-10G in installer uncheck UseKernelCache.
+Enjoy OS X!
