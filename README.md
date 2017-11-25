@@ -1,5 +1,5 @@
 # iDev Repository
-# Develop apps and something together!
+# Develop apps and kexts together!
 This repository for Apple Developers. 
 You can view and Download files on this repo.
 There are files for develop programms or programms for your Mac.
