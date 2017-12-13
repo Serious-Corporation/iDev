@@ -16,4 +16,9 @@ InsanelyMac - http://www.insanelymac.com/
 
 Hackintosh Russian Support - http://www.hackintosh-amd.ru/
 
+If you want to patch yor BIOS use Universal BIOS Backup Toolkit and MMTool.
+
+And You can configure Clover Bootloader 
+-if you have OS X >= 10.8 and <10.10 then use Classic Edition of configurator
+-else use Vibrant Edition :)
    Good luck in development)
